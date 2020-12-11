@@ -1,7 +1,7 @@
 # Human-Resources-Employee-Churn-Prediction
 This project is done to understand and analyze the employee patterns in leaving the company and to develop a model to predict if further employees tend to leave as well. Various Data Science procedures have been utilized such as data preparation, data cleaning, data visualization, implementing machine learning/deep learning algorithms and evaluation analysis.
 
-Employee churn is fundamentally the turnover rate of employees who have decided to leave or have been terminated. In terms of high employee churning, the HR department of any company must spend considerable amount of money, time and effort to find suitable replacements for these previous employees. High turnovers can have negative impacts on the company or orgranization in terms of:
+Employee churn is fundamentally the turnover rate of employees who have decided to leave or have been terminated from the company. In terms of high employee churning, the HR department of any company must spend considerable amount of money, time and effort to find suitable replacements for these previous employees. High turnovers can have negative impacts on the company or orgranization in terms of:
 *  Recruitment Cost
 *  Severance Pay
 *  Loss of productivity
